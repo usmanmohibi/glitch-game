@@ -11,3 +11,18 @@
 .topactions .leave-small{font-size:11px;padding:5px 8px;margin-right:12px;opacity:.72}
 .mutation-badge{cursor:pointer;font:inherit;letter-spacing:inherit;transition:transform .15s ease}
 .mutation-badge:hover,.mutation-badge:focus-visible{transform:translateY(-2px);outline:2px solid currentColor;outline-offset:2px}
+
+/* Topic picker: responsive, colorful, and accessible. */
+.topic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:16px}
+.topic-button{border:2px solid rgba(255,255,255,.16);border-radius:14px;padding:16px 10px;min-height:100px;background:linear-gradient(135deg,rgba(146,102,255,.18),rgba(192,255,50,.08));color:#f5f4ff;font:inherit;font-weight:800;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;transition:border-color .15s,transform .15s}
+.topic-button:nth-child(4n+2){background:linear-gradient(135deg,rgba(20,195,220,.22),rgba(146,102,255,.12))}
+.topic-button:nth-child(4n+3){background:linear-gradient(135deg,rgba(255,127,180,.2),rgba(146,102,255,.12))}
+.topic-button:nth-child(4n+4){background:linear-gradient(135deg,rgba(255,180,50,.2),rgba(146,102,255,.12))}
+.topic-button:hover{transform:translateY(-2px);border-color:#c5ff37}
+.topic-button.selected{border-color:#c5ff37;box-shadow:0 0 0 2px rgba(197,255,55,.25);background:linear-gradient(135deg,rgba(197,255,55,.25),rgba(146,102,255,.2))}
+.topic-emoji{font-size:29px;line-height:1.2}.topic-current{text-align:center}.topic-current strong{display:block;margin-top:8px;font-size:1.1rem}
+@media(min-width:720px){.topic-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+
+/* Four compact, accessible header controls at narrow phone widths. */
+.top{min-width:0;gap:6px}.top .logo{flex:0 1 auto;min-width:0;white-space:nowrap}.topactions{flex:0 0 auto;display:flex;gap:5px;align-items:center}.topactions .top-icon,.topactions .leave-small{display:grid;place-items:center;flex:0 0 auto;width:34px;height:36px;padding:0;margin:0;font-size:16px;letter-spacing:0;opacity:1}.topactions .top-icon:focus-visible{outline:2px solid #d8ff46;outline-offset:2px}
+@media(max-width:430px){#app{padding-left:12px;padding-right:12px}.top .logo{font-size:clamp(21px,6vw,28px)}.topactions{gap:4px}.topactions .top-icon,.topactions .leave-small{width:31px;height:34px;font-size:15px}}
