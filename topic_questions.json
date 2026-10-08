@@ -1,0 +1,1906 @@
+[
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did the Titanic sink?",
+    "answer": 1912,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did World War I begin?",
+    "answer": 1914,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did World War II end?",
+    "answer": 1945,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year was the Declaration of Independence adopted?",
+    "answer": 1776,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did the Berlin Wall fall?",
+    "answer": 1989,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did humans first land on the Moon?",
+    "answer": 1969,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did the first modern Olympic Games take place?",
+    "answer": 1896,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "guess",
+    "q": "In what year did Gutenberg complete his famous printed Bible?",
+    "answer": 1455,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these historical eras from earliest to latest",
+    "items": [
+      "Middle Ages",
+      "Ancient Egypt",
+      "Industrial Revolution",
+      "Roman Empire"
+    ],
+    "order": [
+      "Ancient Egypt",
+      "Roman Empire",
+      "Middle Ages",
+      "Industrial Revolution"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these explorers by their famous voyage dates",
+    "items": [
+      "Ferdinand Magellan",
+      "Marco Polo",
+      "Neil Armstrong",
+      "Christopher Columbus"
+    ],
+    "order": [
+      "Marco Polo",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Neil Armstrong"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these inventions by their historical appearance",
+    "items": [
+      "Printing press",
+      "Wheel",
+      "Telephone",
+      "Paper"
+    ],
+    "order": [
+      "Wheel",
+      "Paper",
+      "Printing press",
+      "Telephone"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these US events from earliest to latest",
+    "items": [
+      "First Moon landing",
+      "Declaration of Independence",
+      "Berlin Wall falls",
+      "Civil War begins"
+    ],
+    "order": [
+      "Declaration of Independence",
+      "Civil War begins",
+      "First Moon landing",
+      "Berlin Wall falls"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these wars by their starting year",
+    "items": [
+      "World War I",
+      "American Revolutionary War",
+      "World War II",
+      "American Civil War"
+    ],
+    "order": [
+      "American Revolutionary War",
+      "American Civil War",
+      "World War I",
+      "World War II"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these famous structures by their construction era",
+    "items": [
+      "Notre-Dame Cathedral",
+      "Great Pyramid of Giza",
+      "Eiffel Tower",
+      "Colosseum"
+    ],
+    "order": [
+      "Great Pyramid of Giza",
+      "Colosseum",
+      "Notre-Dame Cathedral",
+      "Eiffel Tower"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these communication technologies by invention",
+    "items": [
+      "Telegraph",
+      "Writing",
+      "Internet",
+      "Printing press"
+    ],
+    "order": [
+      "Writing",
+      "Printing press",
+      "Telegraph",
+      "Internet"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "sort",
+    "q": "Sort these leaders by when they first took office",
+    "items": [
+      "Winston Churchill",
+      "George Washington",
+      "Nelson Mandela",
+      "Abraham Lincoln"
+    ],
+    "order": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Winston Churchill",
+      "Nelson Mandela"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which historical era would you visit?",
+    "options": [
+      "Ancient Egypt",
+      "Roman Empire",
+      "Renaissance",
+      "Roaring Twenties"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which historical invention changed life the most?",
+    "options": [
+      "Wheel",
+      "Printing press",
+      "Electric light",
+      "Internet"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which famous landmark would you tour?",
+    "options": [
+      "Pyramids",
+      "Colosseum",
+      "Great Wall",
+      "Machu Picchu"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which historical job sounds most fun?",
+    "options": [
+      "Explorer",
+      "Inventor",
+      "Royal chef",
+      "Cartographer"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which historical mystery would you solve?",
+    "options": [
+      "Lost city of Atlantis",
+      "Stonehenge",
+      "Roanoke colony",
+      "Voynich manuscript"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "history",
+    "type": "majority",
+    "q": "Which past fashion would you bring back?",
+    "options": [
+      "Roman sandals",
+      "Victorian coats",
+      "1920s suits",
+      "1970s disco"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many bones are in a typical adult human skeleton?",
+    "answer": 206,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many bones are in one human hand, including the wrist?",
+    "answer": 27,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many bones are in one human foot, including the ankle?",
+    "answer": 26,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "About how many kilometers wide is the Moon?",
+    "answer": 3475,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many minutes does the International Space Station take for approximately one orbit of Earth?",
+    "answer": 90,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many kilometers per second does light travel in vacuum, rounded?",
+    "answer": 300000,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many kilometers above sea level is the Kármán line, the conventional boundary of space?",
+    "answer": 100,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "guess",
+    "q": "How many million kilometers is Earth from the Sun on average, rounded to the nearest million?",
+    "answer": 150,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these planets from closest to farthest from the Sun",
+    "items": [
+      "Jupiter",
+      "Mercury",
+      "Neptune",
+      "Earth"
+    ],
+    "order": [
+      "Mercury",
+      "Earth",
+      "Jupiter",
+      "Neptune"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these objects from smallest to largest",
+    "items": [
+      "Ant",
+      "Atom",
+      "Elephant",
+      "Bacterium"
+    ],
+    "order": [
+      "Atom",
+      "Bacterium",
+      "Ant",
+      "Elephant"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these temperature points from coldest to hottest",
+    "items": [
+      "Human body temperature",
+      "Water freezes",
+      "Water boils",
+      "Room temperature"
+    ],
+    "order": [
+      "Water freezes",
+      "Room temperature",
+      "Human body temperature",
+      "Water boils"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these astronomical objects by approximate diameter",
+    "items": [
+      "Jupiter",
+      "Moon",
+      "Sun",
+      "Earth"
+    ],
+    "order": [
+      "Moon",
+      "Earth",
+      "Jupiter",
+      "Sun"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these lengths from shortest to longest",
+    "items": [
+      "Millimeter",
+      "Nanometer",
+      "Meter",
+      "Micrometer"
+    ],
+    "order": [
+      "Nanometer",
+      "Micrometer",
+      "Millimeter",
+      "Meter"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these planets from shortest to longest year",
+    "items": [
+      "Earth",
+      "Mercury",
+      "Mars",
+      "Venus"
+    ],
+    "order": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these scientific discoveries from earliest to latest",
+    "items": [
+      "Radioactivity discovered",
+      "Heliocentric model published",
+      "DNA double helix described",
+      "Newton gravity published"
+    ],
+    "order": [
+      "Heliocentric model published",
+      "Newton gravity published",
+      "Radioactivity discovered",
+      "DNA double helix described"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "sort",
+    "q": "Sort these space milestones from earliest to latest",
+    "items": [
+      "First Moon landing",
+      "Sputnik 1 launch",
+      "First Space Shuttle flight",
+      "First human in space"
+    ],
+    "order": [
+      "Sputnik 1 launch",
+      "First human in space",
+      "First Moon landing",
+      "First Space Shuttle flight"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which science power would you want?",
+    "options": [
+      "Talk to aliens",
+      "Breathe underwater",
+      "Travel through time",
+      "Control gravity"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which planet would you visit safely?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which science exhibit would you explore?",
+    "options": [
+      "Dinosaurs",
+      "Robots",
+      "Spacecraft",
+      "Volcanoes"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which invention would you build?",
+    "options": [
+      "Jetpack",
+      "Teleport machine",
+      "Robot helper",
+      "Flying car"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which space discovery would excite you most?",
+    "options": [
+      "Alien life",
+      "New Earth-like planet",
+      "Ocean on a moon",
+      "New galaxy"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "science",
+    "type": "majority",
+    "q": "Which science class sounds most fun?",
+    "options": [
+      "Astronomy",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How tall is the Eiffel Tower in meters, including its antenna as of 2022?",
+    "answer": 330,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many countries are in Africa according to the United Nations?",
+    "answer": 54,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many meters above sea level is Mount Kilimanjaro?",
+    "answer": 5895,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many meters tall is the Burj Khalifa, rounded to the nearest meter?",
+    "answer": 828,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "About how many kilometers long is the Nile River?",
+    "answer": 6650,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many meters above sea level is Mount Fuji?",
+    "answer": 3776,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many kilometers long is the equator, rounded to the nearest thousand?",
+    "answer": 40000,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "guess",
+    "q": "How many kilometers long is the Great Wall of China, including all documented sections, rounded?",
+    "answer": 21196,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these mountains from shortest to tallest",
+    "items": [
+      "Aconcagua",
+      "Mount Fuji",
+      "Mount Everest",
+      "Mount Kilimanjaro"
+    ],
+    "order": [
+      "Mount Fuji",
+      "Mount Kilimanjaro",
+      "Aconcagua",
+      "Mount Everest"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these countries by land area from smallest to largest",
+    "items": [
+      "France",
+      "Belgium",
+      "Australia",
+      "Portugal"
+    ],
+    "order": [
+      "Belgium",
+      "Portugal",
+      "France",
+      "Australia"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these rivers by approximate length from shortest to longest",
+    "items": [
+      "Danube",
+      "Thames",
+      "Nile",
+      "Seine"
+    ],
+    "order": [
+      "Thames",
+      "Seine",
+      "Danube",
+      "Nile"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these islands by land area from smallest to largest",
+    "items": [
+      "Great Britain",
+      "Ireland",
+      "Greenland",
+      "Iceland"
+    ],
+    "order": [
+      "Ireland",
+      "Iceland",
+      "Great Britain",
+      "Greenland"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these countries from westernmost to easternmost capital",
+    "items": [
+      "India",
+      "United States",
+      "Japan",
+      "United Kingdom"
+    ],
+    "order": [
+      "United States",
+      "United Kingdom",
+      "India",
+      "Japan"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these cities by latitude from south to north",
+    "items": [
+      "London",
+      "Singapore",
+      "Reykjavik",
+      "Cape Town"
+    ],
+    "order": [
+      "Cape Town",
+      "Singapore",
+      "London",
+      "Reykjavik"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these deserts by approximate area from smallest to largest",
+    "items": [
+      "Sahara",
+      "Mojave",
+      "Antarctic Desert",
+      "Gobi"
+    ],
+    "order": [
+      "Mojave",
+      "Gobi",
+      "Sahara",
+      "Antarctic Desert"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "sort",
+    "q": "Sort these US states by land area from smallest to largest",
+    "items": [
+      "Virginia",
+      "Rhode Island",
+      "Alaska",
+      "New Jersey"
+    ],
+    "order": [
+      "Rhode Island",
+      "New Jersey",
+      "Virginia",
+      "Alaska"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which continent would you explore first?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which natural wonder would you see?",
+    "options": [
+      "Grand Canyon",
+      "Victoria Falls",
+      "Northern Lights",
+      "Great Barrier Reef"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which city trip sounds best?",
+    "options": [
+      "Tokyo",
+      "Paris",
+      "New York",
+      "Rio"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which landscape would you live near?",
+    "options": [
+      "Beach",
+      "Mountains",
+      "Forest",
+      "Desert"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which road trip would you choose?",
+    "options": [
+      "Coastline",
+      "National parks",
+      "Big cities",
+      "Countryside"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "geography",
+    "type": "majority",
+    "q": "Which island would you vacation on?",
+    "options": [
+      "Iceland",
+      "Hawaii",
+      "Bali",
+      "New Zealand"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many meters long is an Olympic-size swimming pool?",
+    "answer": 50,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many meters is one full lap around a standard outdoor athletics track?",
+    "answer": 400,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many kilometers long is a marathon, rounded to three decimal places?",
+    "answer": 42.195,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many centimeters high is a regulation basketball hoop?",
+    "answer": 305,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many meters apart are baseball bases, rounded to one decimal place?",
+    "answer": 27.4,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many meters long is a standard Olympic rowing race?",
+    "answer": 2000,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many meters is the Olympic steeplechase race?",
+    "answer": 3000,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "guess",
+    "q": "How many centimeters is a regulation table tennis table long?",
+    "answer": 274,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these race distances from shortest to longest",
+    "items": [
+      "5 kilometers",
+      "100 meters",
+      "Marathon",
+      "400 meters"
+    ],
+    "order": [
+      "100 meters",
+      "400 meters",
+      "5 kilometers",
+      "Marathon"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these basketball shots by points awarded",
+    "items": [
+      "Three-pointer (3)",
+      "Free throw (1)",
+      "Four-point play (4)",
+      "Field goal (2)"
+    ],
+    "order": [
+      "Free throw (1)",
+      "Field goal (2)",
+      "Three-pointer (3)",
+      "Four-point play (4)"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these sports balls by typical diameter",
+    "items": [
+      "Soccer ball",
+      "Golf ball",
+      "Basketball",
+      "Tennis ball"
+    ],
+    "order": [
+      "Golf ball",
+      "Tennis ball",
+      "Soccer ball",
+      "Basketball"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these track events from shortest to longest",
+    "items": [
+      "1500 meters",
+      "200 meters",
+      "10000 meters",
+      "800 meters"
+    ],
+    "order": [
+      "200 meters",
+      "800 meters",
+      "1500 meters",
+      "10000 meters"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these soccer tournament stages from earliest to latest",
+    "items": [
+      "Semifinal",
+      "Group stage",
+      "Final",
+      "Round of 16"
+    ],
+    "order": [
+      "Group stage",
+      "Round of 16",
+      "Semifinal",
+      "Final"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these swimming race distances from shortest to longest",
+    "items": [
+      "200 meters",
+      "50 meters",
+      "400 meters",
+      "100 meters"
+    ],
+    "order": [
+      "50 meters",
+      "100 meters",
+      "200 meters",
+      "400 meters"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these athletic heights from lowest to highest",
+    "items": [
+      "Basketball hoop at 3.05 meters",
+      "1 meter",
+      "Pole vault bar at 5 meters",
+      "High jump bar at 2 meters"
+    ],
+    "order": [
+      "1 meter",
+      "High jump bar at 2 meters",
+      "Basketball hoop at 3.05 meters",
+      "Pole vault bar at 5 meters"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "sort",
+    "q": "Sort these sporting events by their first modern occurrence",
+    "items": [
+      "Super Bowl (1967)",
+      "Modern Olympics (1896)",
+      "Cricket World Cup (1975)",
+      "FIFA World Cup (1930)"
+    ],
+    "order": [
+      "Modern Olympics (1896)",
+      "FIFA World Cup (1930)",
+      "Super Bowl (1967)",
+      "Cricket World Cup (1975)"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which sport would you play professionally?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Tennis",
+      "Swimming"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which stadium atmosphere sounds best?",
+    "options": [
+      "Soccer final",
+      "Basketball playoffs",
+      "Baseball night game",
+      "Tennis final"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which Olympic event would you try?",
+    "options": [
+      "100m sprint",
+      "Gymnastics",
+      "Diving",
+      "Archery"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which sports skill would you master?",
+    "options": [
+      "Perfect free kicks",
+      "Half-court shots",
+      "Hole-in-one golf",
+      "Lightning serves"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which sport is most fun to watch?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Football",
+      "Formula racing"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "sports",
+    "type": "majority",
+    "q": "Which team mascot is coolest?",
+    "options": [
+      "Dragon",
+      "Tiger",
+      "Eagle",
+      "Shark"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "In what year did the first Star Wars movie premiere?",
+    "answer": 1977,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "In what year was the first Toy Story released?",
+    "answer": 1995,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "How many minutes is the theatrical runtime of the original 1977 Star Wars film?",
+    "answer": 121,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "How many minutes is the theatrical runtime of the 1997 film Titanic?",
+    "answer": 194,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "How many minutes is the theatrical runtime of the first Toy Story film?",
+    "answer": 81,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "In what year was the first Harry Potter book published?",
+    "answer": 1997,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "How many minutes is the theatrical runtime of the 1993 Jurassic Park film?",
+    "answer": 127,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "guess",
+    "q": "In what year was the first Jurassic Park movie released?",
+    "answer": 1993,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these animated movies by release year",
+    "items": [
+      "Finding Nemo (2003)",
+      "Snow White (1937)",
+      "Frozen (2013)",
+      "The Lion King (1994)"
+    ],
+    "order": [
+      "Snow White (1937)",
+      "The Lion King (1994)",
+      "Finding Nemo (2003)",
+      "Frozen (2013)"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these music formats by first widespread use",
+    "items": [
+      "Audio CDs",
+      "Vinyl records",
+      "Streaming music",
+      "Cassette tapes"
+    ],
+    "order": [
+      "Vinyl records",
+      "Cassette tapes",
+      "Audio CDs",
+      "Streaming music"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these movie franchises by first film release",
+    "items": [
+      "Harry Potter",
+      "Star Wars",
+      "The Hunger Games",
+      "Back to the Future"
+    ],
+    "order": [
+      "Star Wars",
+      "Back to the Future",
+      "Harry Potter",
+      "The Hunger Games"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these Disney films by release date",
+    "items": [
+      "Tangled",
+      "Cinderella",
+      "Moana",
+      "Aladdin"
+    ],
+    "order": [
+      "Cinderella",
+      "Aladdin",
+      "Tangled",
+      "Moana"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these game consoles by original launch",
+    "items": [
+      "Nintendo Wii",
+      "NES",
+      "Nintendo Switch",
+      "PlayStation"
+    ],
+    "order": [
+      "NES",
+      "PlayStation",
+      "Nintendo Wii",
+      "Nintendo Switch"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these pop culture decades from earliest to latest",
+    "items": [
+      "1990s grunge",
+      "1950s rock and roll",
+      "2010s streaming",
+      "1970s disco"
+    ],
+    "order": [
+      "1950s rock and roll",
+      "1970s disco",
+      "1990s grunge",
+      "2010s streaming"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these superhero movies by release year",
+    "items": [
+      "Iron Man (2008)",
+      "Superman (1978)",
+      "Black Panther (2018)",
+      "Batman (1989)"
+    ],
+    "order": [
+      "Superman (1978)",
+      "Batman (1989)",
+      "Iron Man (2008)",
+      "Black Panther (2018)"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "sort",
+    "q": "Sort these Harry Potter movies by release",
+    "items": [
+      "Prisoner of Azkaban",
+      "Philosopher’s Stone",
+      "Goblet of Fire",
+      "Chamber of Secrets"
+    ],
+    "order": [
+      "Philosopher’s Stone",
+      "Chamber of Secrets",
+      "Prisoner of Azkaban",
+      "Goblet of Fire"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which movie genre wins movie night?",
+    "options": [
+      "Comedy",
+      "Action",
+      "Horror",
+      "Sci-fi"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which concert would you attend?",
+    "options": [
+      "Pop",
+      "Rock",
+      "Hip-hop",
+      "Electronic"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which fictional world would you live in?",
+    "options": [
+      "Hogwarts",
+      "Star Wars galaxy",
+      "Middle-earth",
+      "Pokémon world"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which movie snack would you buy?",
+    "options": [
+      "Popcorn",
+      "Nachos",
+      "Candy",
+      "Pretzel"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which instrument would you instantly master?",
+    "options": [
+      "Guitar",
+      "Piano",
+      "Drums",
+      "Violin"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "pop",
+    "type": "majority",
+    "q": "Which screen character would be your teammate?",
+    "options": [
+      "Spider-Man",
+      "Hermione",
+      "Shrek",
+      "Buzz Lightyear"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many milliliters are in one US cup, rounded to the nearest milliliter?",
+    "answer": 237,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many grams of water are in one US fluid ounce, rounded?",
+    "answer": 30,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many calories are in one gram of fat, using the standard nutrition conversion?",
+    "answer": 9,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many milliliters are in one US gallon, rounded to the nearest milliliter?",
+    "answer": 3785,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many grams are in one avoirdupois pound, rounded to the nearest gram?",
+    "answer": 454,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many degrees Fahrenheit does water boil at under standard atmospheric pressure?",
+    "answer": 212,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many milliliters are in one US tablespoon, rounded to the nearest milliliter?",
+    "answer": 15,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "guess",
+    "q": "How many grams are in one US ounce, rounded to the nearest gram?",
+    "answer": 28,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these cooking measurements from smallest to largest",
+    "items": [
+      "Cup",
+      "Teaspoon",
+      "Quart",
+      "Tablespoon"
+    ],
+    "order": [
+      "Teaspoon",
+      "Tablespoon",
+      "Cup",
+      "Quart"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these oven temperatures from coolest to hottest",
+    "items": [
+      "200°C",
+      "120°C",
+      "240°C",
+      "160°C"
+    ],
+    "order": [
+      "120°C",
+      "160°C",
+      "200°C",
+      "240°C"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these sugar quantities from least to greatest",
+    "items": [
+      "20 grams",
+      "0 grams",
+      "100 grams",
+      "5 grams"
+    ],
+    "order": [
+      "0 grams",
+      "5 grams",
+      "20 grams",
+      "100 grams"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these drink sizes from smallest to largest",
+    "items": [
+      "Mug (300 mL)",
+      "Shot glass (45 mL)",
+      "Pitcher (1 L)",
+      "Espresso cup (90 mL)"
+    ],
+    "order": [
+      "Shot glass (45 mL)",
+      "Espresso cup (90 mL)",
+      "Mug (300 mL)",
+      "Pitcher (1 L)"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these food preparation steps in order",
+    "items": [
+      "Cut potatoes",
+      "Wash potatoes",
+      "Bake potatoes",
+      "Peel potatoes"
+    ],
+    "order": [
+      "Wash potatoes",
+      "Peel potatoes",
+      "Cut potatoes",
+      "Bake potatoes"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these kitchen time periods from shortest to longest",
+    "items": [
+      "30 minutes",
+      "10 seconds",
+      "2 hours",
+      "2 minutes"
+    ],
+    "order": [
+      "10 seconds",
+      "2 minutes",
+      "30 minutes",
+      "2 hours"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these weights from lightest to heaviest",
+    "items": [
+      "500 grams",
+      "10 grams",
+      "2 kilograms",
+      "100 grams"
+    ],
+    "order": [
+      "10 grams",
+      "100 grams",
+      "500 grams",
+      "2 kilograms"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "sort",
+    "q": "Sort these recipe quantities from least to greatest",
+    "items": [
+      "1 cup",
+      "1/4 cup",
+      "2 cups",
+      "1/2 cup"
+    ],
+    "order": [
+      "1/4 cup",
+      "1/2 cup",
+      "1 cup",
+      "2 cups"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "What is the best pizza topping?",
+    "options": [
+      "Pepperoni",
+      "Mushrooms",
+      "Pineapple",
+      "Extra cheese"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "Which dessert would you choose?",
+    "options": [
+      "Ice cream",
+      "Cake",
+      "Cookies",
+      "Brownies"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "Which breakfast wins?",
+    "options": [
+      "Pancakes",
+      "Eggs",
+      "Cereal",
+      "Waffles"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "Which drink sounds most refreshing?",
+    "options": [
+      "Water",
+      "Lemonade",
+      "Iced tea",
+      "Smoothie"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "Which cuisine would you eat all week?",
+    "options": [
+      "Italian",
+      "Mexican",
+      "Japanese",
+      "Indian"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "food",
+    "type": "majority",
+    "q": "Which midnight snack is best?",
+    "options": [
+      "Popcorn",
+      "Noodles",
+      "Chips",
+      "Chocolate"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many days is the gestation period of an African elephant, approximately?",
+    "answer": 660,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many kilograms can an adult male African bush elephant weigh, approximately?",
+    "answer": 6000,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many days does a chicken egg typically take to hatch?",
+    "answer": 21,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many neck vertebrae does a swan have, approximately?",
+    "answer": 25,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many teeth does an adult domestic dog normally have?",
+    "answer": 42,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many days does an ostrich egg typically take to hatch?",
+    "answer": 42,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many days does a domestic cat pregnancy typically last?",
+    "answer": 65,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "guess",
+    "q": "How many teeth does an adult domestic cat normally have?",
+    "answer": 30,
+    "hint": "Enter your best estimate."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by typical adult body mass",
+    "items": [
+      "Wolf",
+      "Mouse",
+      "Elephant",
+      "Rabbit"
+    ],
+    "order": [
+      "Mouse",
+      "Rabbit",
+      "Wolf",
+      "Elephant"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by approximate top land speed",
+    "items": [
+      "Horse",
+      "Tortoise",
+      "Cheetah",
+      "Human sprinter"
+    ],
+    "order": [
+      "Tortoise",
+      "Human sprinter",
+      "Horse",
+      "Cheetah"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by typical maximum lifespan",
+    "items": [
+      "African elephant",
+      "House mouse",
+      "Giant tortoise",
+      "Domestic dog"
+    ],
+    "order": [
+      "House mouse",
+      "Domestic dog",
+      "African elephant",
+      "Giant tortoise"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by number of legs",
+    "items": [
+      "Dog",
+      "Snake",
+      "Spider",
+      "Human"
+    ],
+    "order": [
+      "Snake",
+      "Human",
+      "Dog",
+      "Spider"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these living things by approximate height",
+    "items": [
+      "Oak tree",
+      "Grass blade",
+      "Giant sequoia",
+      "Sunflower"
+    ],
+    "order": [
+      "Grass blade",
+      "Sunflower",
+      "Oak tree",
+      "Giant sequoia"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these birds by typical adult size",
+    "items": [
+      "Eagle",
+      "Hummingbird",
+      "Ostrich",
+      "Pigeon"
+    ],
+    "order": [
+      "Hummingbird",
+      "Pigeon",
+      "Eagle",
+      "Ostrich"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by typical adult length",
+    "items": [
+      "Crocodile",
+      "Ant",
+      "Blue whale",
+      "Frog"
+    ],
+    "order": [
+      "Ant",
+      "Frog",
+      "Crocodile",
+      "Blue whale"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "sort",
+    "q": "Sort these animals by typical egg incubation time, shortest to longest",
+    "items": [
+      "Chicken",
+      "Emperor penguin",
+      "Ostrich",
+      "Pigeon"
+    ],
+    "order": [
+      "Pigeon",
+      "Chicken",
+      "Ostrich",
+      "Emperor penguin"
+    ],
+    "hint": "Tap items in the correct order."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which animal would make the coolest sidekick?",
+    "options": [
+      "Wolf",
+      "Dolphin",
+      "Eagle",
+      "Fox"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which habitat would you explore?",
+    "options": [
+      "Rainforest",
+      "Coral reef",
+      "Savanna",
+      "Arctic"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which animal ability would you borrow?",
+    "options": [
+      "Eagle vision",
+      "Cheetah speed",
+      "Octopus camouflage",
+      "Dolphin sonar"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which baby animal is cutest?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Panda cub",
+      "Penguin chick"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which outdoor adventure sounds best?",
+    "options": [
+      "Whale watching",
+      "Safari",
+      "Birdwatching",
+      "Snorkeling"
+    ],
+    "hint": "Predict the most popular answer."
+  },
+  {
+    "topic": "animals",
+    "type": "majority",
+    "q": "Which mythical creature should be real?",
+    "options": [
+      "Dragon",
+      "Unicorn",
+      "Phoenix",
+      "Griffin"
+    ],
+    "hint": "Predict the most popular answer."
+  }
+]
