@@ -26,3 +26,37 @@
 /* Four compact, accessible header controls at narrow phone widths. */
 .top{min-width:0;gap:6px}.top .logo{flex:0 1 auto;min-width:0;white-space:nowrap}.topactions{flex:0 0 auto;display:flex;gap:5px;align-items:center}.topactions .top-icon,.topactions .leave-small{display:grid;place-items:center;flex:0 0 auto;width:34px;height:36px;padding:0;margin:0;font-size:16px;letter-spacing:0;opacity:1}.topactions .top-icon:focus-visible{outline:2px solid #d8ff46;outline-offset:2px}
 @media(max-width:430px){#app{padding-left:12px;padding-right:12px}.top .logo{font-size:clamp(21px,6vw,28px)}.topactions{gap:4px}.topactions .top-icon,.topactions .leave-small{width:31px;height:34px;font-size:15px}}
+
+/* Compact Detective targets: keep challenge controls above this panel. */
+.detective-targets{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.detective-targets .detective-target{display:block;width:100%;min-width:0;min-height:38px;margin:0;padding:8px 5px;font-size:.88rem;line-height:1.15;overflow-wrap:anywhere}
+@media(min-width:420px){.detective-targets{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* ALIBI: compact answer explanations and accessible mobile controls. */
+.alibi-panel{margin-top:18px;padding:14px;border:1px solid rgba(197,255,55,.25);border-radius:12px;background:rgba(197,255,55,.045)}
+.alibi-suggestions{display:grid;grid-template-columns:1fr;gap:7px;margin:12px 0}
+.alibi-suggestions button{width:100%;padding:10px 12px;text-align:left;border:1px solid #56566e;border-radius:9px;background:#252539;color:#f5f4ff;font:inherit;cursor:pointer;overflow-wrap:anywhere}
+.alibi-suggestions button:hover{border-color:#c5ff37}
+.alibi-custom{display:flex;gap:8px;align-items:stretch}.alibi-custom input{flex:1;min-width:0}.alibi-custom .btn{width:auto;min-width:75px;margin:0;padding:10px}
+.alibi-evidence{display:block;font-size:.85em;opacity:.85;margin-top:4px;font-style:italic;overflow-wrap:anywhere}
+@media(min-width:640px){.alibi-suggestions{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* Contest usability polish: legible scan evidence, keyboard focus, and narrow screens. */
+.vote-answer{align-items:flex-start;min-width:0}
+.vote-answer span:first-child{flex:0 0 34%;font-weight:800;overflow-wrap:anywhere}
+.vote-answer span:last-child{flex:1;min-width:0}
+.alibi-evidence{line-height:1.4;color:#e1d7e5}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #d8ff46;outline-offset:3px}
+@media(max-width:390px){.vote-evidence{padding:9px}.vote-answer{gap:8px;font-size:13px}.alibi-custom input{padding:12px;font-size:16px}.alibi-custom .btn{min-width:60px;padding:9px}}
+
+/* v8: compact evidence and narrow-screen overflow protection. */
+.compact-correct{padding:8px 11px;margin:12px 0 0;font-size:.9rem;line-height:1.3;overflow-wrap:anywhere}
+.answer-row>div{min-width:0;flex:1;overflow-wrap:anywhere}
+.answer-row .score{overflow-wrap:anywhere}
+@media(max-width:360px){html,body{max-width:100%;overflow-x:hidden}#app,.panel,.row,.vote-evidence,.answer-row{min-width:0;max-width:100%;box-sizing:border-box}.topactions{gap:3px}.topactions .top-icon,.topactions .leave-small{width:29px;height:32px;padding:0}.top .logo{font-size:20px}.row>.eyebrow,.row>.muted{min-width:0;overflow-wrap:anywhere}.choices,.topic-grid,.detective-targets{min-width:0}.choices>* ,.topic-grid>* ,.detective-targets>*{min-width:0;overflow-wrap:anywhere}.bigcode{font-size:clamp(35px,11vw,64px)}.alibi-custom input{min-width:0}.answer-row{gap:7px;padding:10px}.answer-row .score{font-size:12px}}
+
+/* v10: full-width sorting evidence, with points beneath the answer. */
+.answer-row.sort-reveal-row{display:flex;flex-direction:column;align-items:stretch;gap:6px}
+.answer-row.sort-reveal-row>div{width:100%;flex:none;min-width:0;overflow-wrap:normal;word-break:normal}
+.answer-row.sort-reveal-row .score{display:block;width:100%;font-size:12px;line-height:1.4;overflow-wrap:normal;word-break:normal}
+@media(max-width:360px){.answer-row.sort-reveal-row{padding:10px}.answer-row.sort-reveal-row>div{width:100%}}
