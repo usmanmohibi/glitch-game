@@ -4,56 +4,136 @@
     "type": "guess",
     "q": "In what year did the Titanic sink?",
     "answer": 1912,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I was thinking of the wreck discovery date",
+        "dir": "late"
+      },
+      {
+        "text": "I confused it with an earlier ocean liner",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did World War I begin?",
     "answer": 1914,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a later wartime event",
+        "dir": "late"
+      },
+      {
+        "text": "I mixed it up with an earlier Balkan crisis",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did World War II end?",
     "answer": 1945,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed up the surrender with postwar trials",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier turning point",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year was the Declaration of Independence adopted?",
     "answer": 1776,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with the Constitution",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier colonial protest",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did the Berlin Wall fall?",
     "answer": 1989,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with German reunification",
+        "dir": "late"
+      },
+      {
+        "text": "I recalled an earlier Cold War protest",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did humans first land on the Moon?",
     "answer": 1969,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a later Apollo mission",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier spaceflight",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did the first modern Olympic Games take place?",
     "answer": 1896,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a later Olympic revival",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier athletic festival",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
     "type": "guess",
     "q": "In what year did Gutenberg complete his famous printed Bible?",
     "answer": 1455,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with later printed editions",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of earlier printing experiments",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -71,7 +151,17 @@
       "Middle Ages",
       "Industrial Revolution"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I always forget how old the pyramids are.",
+        "item": "Ancient Egypt"
+      },
+      {
+        "text": "I put medieval times too far back.",
+        "item": "Middle Ages"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -89,7 +179,17 @@
       "Ferdinand Magellan",
       "Neil Armstrong"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I thought Marco Polo sailed much later.",
+        "item": "Marco Polo"
+      },
+      {
+        "text": "I mixed up Magellan with a later explorer.",
+        "item": "Ferdinand Magellan"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -107,7 +207,17 @@
       "Printing press",
       "Telephone"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot the wheel predates written history.",
+        "item": "Wheel"
+      },
+      {
+        "text": "I confused the press with modern printing.",
+        "item": "Printing press"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -125,7 +235,17 @@
       "First Moon landing",
       "Berlin Wall falls"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up independence and the Constitution.",
+        "item": "Declaration of Independence"
+      },
+      {
+        "text": "I confused the Moon landing with a later mission.",
+        "item": "First Moon landing"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -143,7 +263,17 @@
       "World War I",
       "World War II"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I placed the Revolution too late.",
+        "item": "American Revolutionary War"
+      },
+      {
+        "text": "I mixed up WWI with a later war.",
+        "item": "World War I"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -161,7 +291,17 @@
       "Notre-Dame Cathedral",
       "Eiffel Tower"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I underestimated how ancient Giza is.",
+        "item": "Great Pyramid of Giza"
+      },
+      {
+        "text": "I thought Notre-Dame was built much earlier.",
+        "item": "Notre-Dame Cathedral"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -179,7 +319,17 @@
       "Telegraph",
       "Internet"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot writing came before paper.",
+        "item": "Writing"
+      },
+      {
+        "text": "I confused the telegraph with the telephone.",
+        "item": "Telegraph"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -197,7 +347,17 @@
       "Winston Churchill",
       "Nelson Mandela"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up Washington with later presidents.",
+        "item": "George Washington"
+      },
+      {
+        "text": "I placed Churchill in an earlier war.",
+        "item": "Winston Churchill"
+      }
+    ]
   },
   {
     "topic": "history",
@@ -276,56 +436,136 @@
     "type": "guess",
     "q": "How many bones are in a typical adult human skeleton?",
     "answer": 206,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted extra small bones near the joints",
+        "dir": "high"
+      },
+      {
+        "text": "I left out some of the smaller bones",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many bones are in one human hand, including the wrist?",
     "answer": 27,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted some finger joints as bones",
+        "dir": "high"
+      },
+      {
+        "text": "I left out a few of the wrist bones",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many bones are in one human foot, including the ankle?",
     "answer": 26,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted some ankle parts twice",
+        "dir": "high"
+      },
+      {
+        "text": "I forgot the small bones near the toes",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "About how many kilometers wide is the Moon?",
     "answer": 3475,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused its width with a larger distance",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a smaller lunar cross-section",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many minutes does the International Space Station take for approximately one orbit of Earth?",
     "answer": 90,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused an orbit with a longer cycle",
+        "dir": "high"
+      },
+      {
+        "text": "I estimated a faster orbit than it has",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many kilometers per second does light travel in vacuum, rounded?",
     "answer": 300000,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a larger speed figure",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed up the units and guessed low",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many kilometers above sea level is the Kármán line, the conventional boundary of space?",
     "answer": 100,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a higher space boundary",
+        "dir": "high"
+      },
+      {
+        "text": "I was thinking of a lower altitude marker",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
     "type": "guess",
     "q": "How many million kilometers is Earth from the Sun on average, rounded to the nearest million?",
     "answer": 150,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a more distant orbit",
+        "dir": "high"
+      },
+      {
+        "text": "I was thinking of Earth at its closest",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -343,7 +583,17 @@
       "Jupiter",
       "Neptune"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up Mercury and Venus.",
+        "item": "Mercury"
+      },
+      {
+        "text": "I forgot how far Jupiter is from the Sun.",
+        "item": "Jupiter"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -361,7 +611,17 @@
       "Ant",
       "Elephant"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured a cell instead of an atom.",
+        "item": "Atom"
+      },
+      {
+        "text": "I underestimated how big an ant is.",
+        "item": "Ant"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -379,7 +639,17 @@
       "Human body temperature",
       "Water boils"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up freezing with boiling points.",
+        "item": "Water freezes"
+      },
+      {
+        "text": "I thought body temperature was lower.",
+        "item": "Human body temperature"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -397,7 +667,17 @@
       "Jupiter",
       "Sun"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured the Moon as bigger than it is.",
+        "item": "Moon"
+      },
+      {
+        "text": "I underestimated Jupiter’s size.",
+        "item": "Jupiter"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -415,7 +695,17 @@
       "Millimeter",
       "Meter"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused nanometers with micrometers.",
+        "item": "Nanometer"
+      },
+      {
+        "text": "I thought a millimeter was much smaller.",
+        "item": "Millimeter"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -433,7 +723,17 @@
       "Earth",
       "Mars"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot Mercury has such a short year.",
+        "item": "Mercury"
+      },
+      {
+        "text": "I mixed up Earth’s year with its day.",
+        "item": "Earth"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -451,7 +751,17 @@
       "Radioactivity discovered",
       "DNA double helix described"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I placed Copernicus a century too late.",
+        "item": "Heliocentric model published"
+      },
+      {
+        "text": "I mixed up radioactivity and X-rays.",
+        "item": "Radioactivity discovered"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -469,7 +779,17 @@
       "First Moon landing",
       "First Space Shuttle flight"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused Sputnik with a later satellite.",
+        "item": "Sputnik 1 launch"
+      },
+      {
+        "text": "I mixed up the Moon landing and Apollo 8.",
+        "item": "First Moon landing"
+      }
+    ]
   },
   {
     "topic": "science",
@@ -548,56 +868,136 @@
     "type": "guess",
     "q": "How tall is the Eiffel Tower in meters, including its antenna as of 2022?",
     "answer": 330,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I remembered a taller antenna measurement",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled the tower before its antenna",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many countries are in Africa according to the United Nations?",
     "answer": 54,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted a few disputed territories",
+        "dir": "high"
+      },
+      {
+        "text": "I left out a few smaller countries",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many meters above sea level is Mount Kilimanjaro?",
     "answer": 5895,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a taller African peak",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with a lower mountain",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many meters tall is the Burj Khalifa, rounded to the nearest meter?",
     "answer": 828,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a taller skyscraper",
+        "dir": "high"
+      },
+      {
+        "text": "I remembered a shorter tower measurement",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "About how many kilometers long is the Nile River?",
     "answer": 6650,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a longer river estimate",
+        "dir": "high"
+      },
+      {
+        "text": "I remembered a shorter Nile measurement",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many meters above sea level is Mount Fuji?",
     "answer": 3776,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a taller Japanese peak",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a lower mountain elevation",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many kilometers long is the equator, rounded to the nearest thousand?",
     "answer": 40000,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I rounded using a bigger Earth diameter",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a slightly smaller circumference",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
     "type": "guess",
     "q": "How many kilometers long is the Great Wall of China, including all documented sections, rounded?",
     "answer": 21196,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted more of the old wall branches",
+        "dir": "high"
+      },
+      {
+        "text": "I was thinking of the best-known wall section",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -615,7 +1015,17 @@
       "Aconcagua",
       "Mount Everest"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I thought Fuji was taller than it is.",
+        "item": "Mount Fuji"
+      },
+      {
+        "text": "I underestimated Aconcagua’s height.",
+        "item": "Aconcagua"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -633,7 +1043,17 @@
       "France",
       "Australia"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured Belgium as much larger.",
+        "item": "Belgium"
+      },
+      {
+        "text": "I mixed up France and Germany by area.",
+        "item": "France"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -651,7 +1071,17 @@
       "Danube",
       "Nile"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I thought the Thames was much longer.",
+        "item": "Thames"
+      },
+      {
+        "text": "I confused the Danube with the Rhine.",
+        "item": "Danube"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -669,7 +1099,17 @@
       "Great Britain",
       "Greenland"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot Ireland is smaller than Britain.",
+        "item": "Ireland"
+      },
+      {
+        "text": "I mixed up Britain with Greenland.",
+        "item": "Great Britain"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -687,7 +1127,17 @@
       "India",
       "Japan"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up Washington and Ottawa.",
+        "item": "United States"
+      },
+      {
+        "text": "I pictured Delhi farther west.",
+        "item": "India"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -705,7 +1155,17 @@
       "London",
       "Reykjavik"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot Cape Town is so far south.",
+        "item": "Cape Town"
+      },
+      {
+        "text": "I placed London farther north than it is.",
+        "item": "London"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -723,7 +1183,17 @@
       "Sahara",
       "Antarctic Desert"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I underestimated the Mojave’s size.",
+        "item": "Mojave"
+      },
+      {
+        "text": "I mixed up the Sahara with the Arabian Desert.",
+        "item": "Sahara"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -741,7 +1211,17 @@
       "Virginia",
       "Alaska"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot how tiny Rhode Island is.",
+        "item": "Rhode Island"
+      },
+      {
+        "text": "I pictured Virginia as a smaller state.",
+        "item": "Virginia"
+      }
+    ]
   },
   {
     "topic": "geography",
@@ -820,56 +1300,136 @@
     "type": "guess",
     "q": "How many meters long is an Olympic-size swimming pool?",
     "answer": 50,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a longer competition pool",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with a shorter training pool",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many meters is one full lap around a standard outdoor athletics track?",
     "answer": 400,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted an extra bend in the track",
+        "dir": "high"
+      },
+      {
+        "text": "I thought of a shorter indoor track",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many kilometers long is a marathon, rounded to three decimal places?",
     "answer": 42.195,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I added extra distance after the finish",
+        "dir": "high"
+      },
+      {
+        "text": "I rounded the race distance down too far",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many centimeters high is a regulation basketball hoop?",
     "answer": 305,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a hoop at a taller height",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with a lower youth hoop",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many meters apart are baseball bases, rounded to one decimal place?",
     "answer": 27.4,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I imagined a wider baseball diamond",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a smaller youth baseball field",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many meters long is a standard Olympic rowing race?",
     "answer": 2000,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a longer rowing event",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled a shorter rowing course",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many meters is the Olympic steeplechase race?",
     "answer": 3000,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a longer track race",
+        "dir": "high"
+      },
+      {
+        "text": "I confused it with a shorter distance event",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
     "type": "guess",
     "q": "How many centimeters is a regulation table tennis table long?",
     "answer": 274,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a longer competition table",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with a smaller practice table",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -887,7 +1447,17 @@
       "5 kilometers",
       "Marathon"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I read the 100 as a longer sprint.",
+        "item": "100 meters"
+      },
+      {
+        "text": "I mixed up 5K and mile distances.",
+        "item": "5 kilometers"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -905,7 +1475,17 @@
       "Three-pointer (3)",
       "Four-point play (4)"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot free throws count for one.",
+        "item": "Free throw (1)"
+      },
+      {
+        "text": "I confused a three-pointer with a long two.",
+        "item": "Three-pointer (3)"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -923,7 +1503,17 @@
       "Soccer ball",
       "Basketball"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured a golf ball much larger.",
+        "item": "Golf ball"
+      },
+      {
+        "text": "I underestimated the size of a soccer ball.",
+        "item": "Soccer ball"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -941,7 +1531,17 @@
       "1500 meters",
       "10000 meters"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused the 200 with the 400.",
+        "item": "200 meters"
+      },
+      {
+        "text": "I thought the 1500 was a shorter race.",
+        "item": "1500 meters"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -959,7 +1559,17 @@
       "Semifinal",
       "Final"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up group play and knockout rounds.",
+        "item": "Group stage"
+      },
+      {
+        "text": "I put the semifinal before the quarterfinal.",
+        "item": "Semifinal"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -977,7 +1587,17 @@
       "200 meters",
       "400 meters"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot the 50 is one pool length.",
+        "item": "50 meters"
+      },
+      {
+        "text": "I confused the 200 with the 400.",
+        "item": "200 meters"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -995,7 +1615,17 @@
       "Basketball hoop at 3.05 meters",
       "Pole vault bar at 5 meters"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured one meter as much taller.",
+        "item": "1 meter"
+      },
+      {
+        "text": "I underestimated the height of the hoop.",
+        "item": "Basketball hoop at 3.05 meters"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -1013,7 +1643,17 @@
       "Super Bowl (1967)",
       "Cricket World Cup (1975)"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot the modern Olympics began in 1896.",
+        "item": "Modern Olympics (1896)"
+      },
+      {
+        "text": "I thought the Super Bowl started earlier.",
+        "item": "Super Bowl (1967)"
+      }
+    ]
   },
   {
     "topic": "sports",
@@ -1092,56 +1732,136 @@
     "type": "guess",
     "q": "In what year did the first Star Wars movie premiere?",
     "answer": 1977,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a later sequel release",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier sci-fi movie",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "In what year was the first Toy Story released?",
     "answer": 1995,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a later Pixar release",
+        "dir": "late"
+      },
+      {
+        "text": "I recalled an earlier animation milestone",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "How many minutes is the theatrical runtime of the original 1977 Star Wars film?",
     "answer": 121,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted scenes from an extended edition",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled a shorter theatrical cut",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "How many minutes is the theatrical runtime of the 1997 film Titanic?",
     "answer": 194,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a longer director cut",
+        "dir": "high"
+      },
+      {
+        "text": "I remembered a shorter TV edit",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "How many minutes is the theatrical runtime of the first Toy Story film?",
     "answer": 81,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I thought it ran longer than other cartoons",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with a shorter animated film",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "In what year was the first Harry Potter book published?",
     "answer": 1997,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I recalled a later book in the series",
+        "dir": "late"
+      },
+      {
+        "text": "I was thinking of an earlier draft date",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "How many minutes is the theatrical runtime of the 1993 Jurassic Park film?",
     "answer": 127,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a longer adventure movie",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled a shorter TV edit",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "pop",
     "type": "guess",
     "q": "In what year was the first Jurassic Park movie released?",
     "answer": 1993,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I was thinking of a later sequel",
+        "dir": "late"
+      },
+      {
+        "text": "I mixed it up with an earlier dinosaur film",
+        "dir": "early"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1159,7 +1879,17 @@
       "Finding Nemo (2003)",
       "Frozen (2013)"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up Snow White with later Disney films.",
+        "item": "Snow White (1937)"
+      },
+      {
+        "text": "I thought Nemo came out in the 1990s.",
+        "item": "Finding Nemo (2003)"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1177,7 +1907,17 @@
       "Audio CDs",
       "Streaming music"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused vinyl with older shellac discs.",
+        "item": "Vinyl records"
+      },
+      {
+        "text": "I thought CDs became common much earlier.",
+        "item": "Audio CDs"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1195,7 +1935,17 @@
       "Harry Potter",
       "The Hunger Games"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up the original Star Wars trilogy.",
+        "item": "Star Wars"
+      },
+      {
+        "text": "I placed Harry Potter in the 1990s.",
+        "item": "Harry Potter"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1213,7 +1963,17 @@
       "Tangled",
       "Moana"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused Cinderella with Sleeping Beauty.",
+        "item": "Cinderella"
+      },
+      {
+        "text": "I thought Tangled was an older Disney film.",
+        "item": "Tangled"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1231,7 +1991,17 @@
       "Nintendo Wii",
       "Nintendo Switch"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up the NES and SNES launches.",
+        "item": "NES"
+      },
+      {
+        "text": "I placed the Wii in the early 2000s.",
+        "item": "Nintendo Wii"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1249,7 +2019,17 @@
       "1990s grunge",
       "2010s streaming"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused early rock with later pop.",
+        "item": "1950s rock and roll"
+      },
+      {
+        "text": "I mixed up grunge with 1980s metal.",
+        "item": "1990s grunge"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1267,7 +2047,17 @@
       "Iron Man (2008)",
       "Black Panther (2018)"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot how old the first Superman film is.",
+        "item": "Superman (1978)"
+      },
+      {
+        "text": "I confused Iron Man with earlier Marvel films.",
+        "item": "Iron Man (2008)"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1285,7 +2075,17 @@
       "Prisoner of Azkaban",
       "Goblet of Fire"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up the first Potter film with the book.",
+        "item": "Philosopher’s Stone"
+      },
+      {
+        "text": "I thought Azkaban was the second movie.",
+        "item": "Prisoner of Azkaban"
+      }
+    ]
   },
   {
     "topic": "pop",
@@ -1364,56 +2164,136 @@
     "type": "guess",
     "q": "How many milliliters are in one US cup, rounded to the nearest milliliter?",
     "answer": 237,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I used a larger metric cup conversion",
+        "dir": "high"
+      },
+      {
+        "text": "I rounded the cup volume down",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many grams of water are in one US fluid ounce, rounded?",
     "answer": 30,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted a little extra water weight",
+        "dir": "high"
+      },
+      {
+        "text": "I used a smaller fluid-ounce conversion",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many calories are in one gram of fat, using the standard nutrition conversion?",
     "answer": 9,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused fat with a higher calorie figure",
+        "dir": "high"
+      },
+      {
+        "text": "I mixed it up with protein calories",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many milliliters are in one US gallon, rounded to the nearest milliliter?",
     "answer": 3785,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused it with a larger gallon unit",
+        "dir": "high"
+      },
+      {
+        "text": "I rounded the gallon conversion too low",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many grams are in one avoirdupois pound, rounded to the nearest gram?",
     "answer": 454,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I used a heavier pound conversion",
+        "dir": "high"
+      },
+      {
+        "text": "I rounded the pound conversion down",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many degrees Fahrenheit does water boil at under standard atmospheric pressure?",
     "answer": 212,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a hotter cooking setting",
+        "dir": "high"
+      },
+      {
+        "text": "I was thinking of a lower boiling point",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many milliliters are in one US tablespoon, rounded to the nearest milliliter?",
     "answer": 15,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a larger kitchen spoon",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a smaller measuring spoon",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
     "type": "guess",
     "q": "How many grams are in one US ounce, rounded to the nearest gram?",
     "answer": 28,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I confused an ounce with a heavier unit",
+        "dir": "high"
+      },
+      {
+        "text": "I rounded the ounce conversion too low",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1431,7 +2311,17 @@
       "Cup",
       "Quart"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up teaspoons and tablespoons.",
+        "item": "Teaspoon"
+      },
+      {
+        "text": "I pictured a cup as much smaller.",
+        "item": "Cup"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1449,7 +2339,17 @@
       "200°C",
       "240°C"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused Celsius with Fahrenheit.",
+        "item": "120°C"
+      },
+      {
+        "text": "I mixed up baking and roasting temperatures.",
+        "item": "200°C"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1467,7 +2367,17 @@
       "20 grams",
       "100 grams"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured zero sugar as a tiny amount.",
+        "item": "0 grams"
+      },
+      {
+        "text": "I thought 20 grams was only a teaspoon.",
+        "item": "20 grams"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1485,7 +2395,17 @@
       "Mug (300 mL)",
       "Pitcher (1 L)"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured a shot glass as larger.",
+        "item": "Shot glass (45 mL)"
+      },
+      {
+        "text": "I confused a mug with a small cup.",
+        "item": "Mug (300 mL)"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1503,7 +2423,17 @@
       "Cut potatoes",
       "Bake potatoes"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot to wash the potatoes first.",
+        "item": "Wash potatoes"
+      },
+      {
+        "text": "I mixed up cutting and peeling steps.",
+        "item": "Cut potatoes"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1521,7 +2451,17 @@
       "30 minutes",
       "2 hours"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I read ten seconds as ten minutes.",
+        "item": "10 seconds"
+      },
+      {
+        "text": "I underestimated how long half an hour is.",
+        "item": "30 minutes"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1539,7 +2479,17 @@
       "500 grams",
       "2 kilograms"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured ten grams as much heavier.",
+        "item": "10 grams"
+      },
+      {
+        "text": "I confused 500 grams with half a pound.",
+        "item": "500 grams"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1557,7 +2507,17 @@
       "1 cup",
       "2 cups"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I mixed up a quarter and half cup.",
+        "item": "1/4 cup"
+      },
+      {
+        "text": "I pictured one cup as a smaller serving.",
+        "item": "1 cup"
+      }
+    ]
   },
   {
     "topic": "food",
@@ -1636,56 +2596,136 @@
     "type": "guess",
     "q": "How many days is the gestation period of an African elephant, approximately?",
     "answer": 660,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a longer elephant pregnancy",
+        "dir": "high"
+      },
+      {
+        "text": "I confused it with a shorter gestation",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many kilograms can an adult male African bush elephant weigh, approximately?",
     "answer": 6000,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured an unusually heavy bull",
+        "dir": "high"
+      },
+      {
+        "text": "I was thinking of a smaller elephant",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many days does a chicken egg typically take to hatch?",
     "answer": 21,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a longer hatching cycle",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled a shorter egg incubation",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many neck vertebrae does a swan have, approximately?",
     "answer": 25,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted extra segments in the neck",
+        "dir": "high"
+      },
+      {
+        "text": "I pictured a shorter-necked water bird",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many teeth does an adult domestic dog normally have?",
     "answer": 42,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted some extra puppy teeth",
+        "dir": "high"
+      },
+      {
+        "text": "I forgot a few of the back molars",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many days does an ostrich egg typically take to hatch?",
     "answer": 42,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I mixed it up with a slower-hatching bird",
+        "dir": "high"
+      },
+      {
+        "text": "I recalled a smaller bird egg",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many days does a domestic cat pregnancy typically last?",
     "answer": 65,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I pictured a longer cat pregnancy",
+        "dir": "high"
+      },
+      {
+        "text": "I confused it with a shorter gestation",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
     "type": "guess",
     "q": "How many teeth does an adult domestic cat normally have?",
     "answer": 30,
-    "hint": "Enter your best estimate."
+    "hint": "Enter your best estimate.",
+    "mixups": [
+      {
+        "text": "I counted some extra kitten teeth",
+        "dir": "high"
+      },
+      {
+        "text": "I forgot a few of the small cat teeth",
+        "dir": "low"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1703,7 +2743,17 @@
       "Wolf",
       "Elephant"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I underestimated how tiny a mouse is.",
+        "item": "Mouse"
+      },
+      {
+        "text": "I pictured a wolf as lighter than it is.",
+        "item": "Wolf"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1721,7 +2771,17 @@
       "Horse",
       "Cheetah"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot tortoises can move at all.",
+        "item": "Tortoise"
+      },
+      {
+        "text": "I underestimated a horse’s top speed.",
+        "item": "Horse"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1739,7 +2799,17 @@
       "African elephant",
       "Giant tortoise"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I thought mice lived longer in the wild.",
+        "item": "House mouse"
+      },
+      {
+        "text": "I confused elephant lifespan with tortoises.",
+        "item": "African elephant"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1757,7 +2827,17 @@
       "Dog",
       "Spider"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I counted a snake’s ribs as legs.",
+        "item": "Snake"
+      },
+      {
+        "text": "I forgot dogs have four legs.",
+        "item": "Dog"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1775,7 +2855,17 @@
       "Oak tree",
       "Giant sequoia"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I pictured a grass blade much taller.",
+        "item": "Grass blade"
+      },
+      {
+        "text": "I underestimated a mature oak tree.",
+        "item": "Oak tree"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1793,7 +2883,17 @@
       "Eagle",
       "Ostrich"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I imagined a hummingbird much larger.",
+        "item": "Hummingbird"
+      },
+      {
+        "text": "I confused an eagle with a hawk.",
+        "item": "Eagle"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1811,7 +2911,17 @@
       "Crocodile",
       "Blue whale"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I forgot how tiny some ants are.",
+        "item": "Ant"
+      },
+      {
+        "text": "I pictured a crocodile as much shorter.",
+        "item": "Crocodile"
+      }
+    ]
   },
   {
     "topic": "animals",
@@ -1829,7 +2939,17 @@
       "Ostrich",
       "Emperor penguin"
     ],
-    "hint": "Tap items in the correct order."
+    "hint": "Tap items in the correct order.",
+    "mixups": [
+      {
+        "text": "I confused pigeon eggs with chicken eggs.",
+        "item": "Pigeon"
+      },
+      {
+        "text": "I thought ostrich eggs hatched much faster.",
+        "item": "Ostrich"
+      }
+    ]
   },
   {
     "topic": "animals",
